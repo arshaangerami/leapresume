@@ -7,12 +7,12 @@ Millcreek, WA 98012 | (405) 213-7535| ms_nakhjiri@yahoo.com | [github](https://g
 -------------------             ----------------------------
 
 
-##Professional Summary:
+## Professional Summary:
 ---
     * Spent four years parenting my kids. Now, eager to return to pursuing my career. In that time :
-       _ devoted for improving my programming knowledge,learned some coding languages and some frameworks.
-       _ Spent 3 month intership and gained experience. 
-       _ Volenteered in my Kid's school PTA.
+       - Devoted for improving my programming knowledge,learned some coding languages and some frameworks.
+       - Spent 3 month intership and gained experience. 
+       - Volenteered in my Kid's school PTA.
 
 
 ​       
